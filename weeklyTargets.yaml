@@ -1,67 +1,176 @@
 carnivale:
   novice:
-    - 10. A Little Knight Music
-    - 12. The Plant-om of the Opera
-    - 09. To Kill a Mockingslime
-    - 12. The Plant-om of the Opera
-    - 14. Blobs in the Woods
-    - 08. Bomb-edy of Errors
-    - 09. To Kill a Mockingslime
-    - 08. Bomb-edy of Errors
-    - 11. Some Like It Excruciatingly Hot
-    - 14. Blobs in the Woods
-    - 09. A Chorus Slime
-    - 13. Beauty and a Beast
-    - 10. A Little Knight Music
-    - 07. A Chorus Slime
-    - 15. The Me Nobody Nodes
-    - 06. Eye Society
-    - 11. Some Like It Excruciatingly Hot
-    - 15. The Me Nobody Nodes
-    - 06. Eye Society
-    - 13. Beauty and a Beast
+    - name: 10. A Little Knight Music
+    - name: 12. The Plant-om of the Opera
+    - name: 09. To Kill a Mockingslime
+    - name: 12. The Plant-om of the Opera
+    - name: 14. Blobs in the Woods
+    - name: 08. Bomb-edy of Errors
+    - name: 09. To Kill a Mockingslime
+    - name: 08. Bomb-edy of Errors
+    - name: 11. Some Like It Excruciatingly Hot
+    - name: 14. Blobs in the Woods
+    - name: 09. A Chorus Slime
+    - name: 13. Beauty and a Beast
+    - name: 10. A Little Knight Music
+    - name: 07. A Chorus Slime
+    - name: 15. The Me Nobody Nodes
+    - name: 06. Eye Society
+    - name: 11. Some Like It Excruciatingly Hot
+    - name: 15. The Me Nobody Nodes
+    - name: 06. Eye Society
+    - name: 13. Beauty and a Beast
   moderate:
-    - 19. On a Clear Day You Can Smell Forever (Slow and Steady)
-    - 02. Much Ado About Pudding (Too Fast, Too Furious)
-    - 06. Eye Society (Too Fast, Too Furious)
-    - 10. A Little Knight Music (4 Ways to Die)
-    - 16. Sunset Bull-evard (10 Ways to Die)
-    - 18. Midsummer Night's Explosion (Slow and Steady)
-    - 11. Some Like It Excruciatingly Hot (Beginner Spellcasting)
-    - 13. Beauty and a Beast (Too Fast, Too Furious)
-    - 15. The Me Nobody Nodes (Mastery of Earth)
-    - 08. Bomb-edy of Errors (Beginner Spellcasting)
-    - 03. Waiting for Golem (Mastery of Water)
-    - 09. To Kill a Mockingslime (Enfeeble Me Tender)
-    - 14. Blobs in the Woods (Ain't Got Time to Bleed)
-    - 12. The Plant-om of the Opera (Slow and Steady)
-    - 07. A Chorus Slime (Advanced Spellcasting)
-    - 09. To Kill a Mockingslime (10 Ways to Die)
-    - 13. Beauty and a Beast (Mastery of Fire)
-    - 04. Gentlemen Prefer Swords (Mastery of Lightning)
-    - 11. Some Like It Excruciatingly Hot (Advanced Spellcasting)
-    - 17. The Sword of Music (Enfeeble Me Tender)
+    - name: 19. On a Clear Day You Can Smell Forever
+      bonuses:
+        - Slow and Steady
+    - name: 02. Much Ado About Pudding
+      bonuses:
+        - Too Fast, Too Furious
+    - name: 06. Eye Society
+      bonuses:
+        - Too Fast, Too Furious
+    - name: 10. A Little Knight Music
+      bonuses:
+        - 4 Ways to Die
+    - name: 16. Sunset Bull-evard
+      bonuses:
+        - 10 Ways to Die
+    - name: 18. Midsummer Night's Explosion
+      bonuses:
+        - Slow and Steady
+    - name: 11. Some Like It Excruciatingly Hot
+      bonuses:
+        - Beginner Spellcasting
+    - name: 13. Beauty and a Beast
+      bonuses:
+        - Too Fast, Too Furious
+    - name: 15. The Me Nobody Nodes
+      bonuses:
+        - Mastery of Earth
+    - name: 08. Bomb-edy of Errors
+      bonuses:
+        - Beginner Spellcasting
+    - name: 03. Waiting for Golem
+      bonuses:
+        - Mastery of Water
+    - name: 09. To Kill a Mockingslime
+      bonuses:
+        - Enfeeble Me Tender
+    - name: 14. Blobs in the Woods
+      bonuses:
+        - Ain't Got Time to Bleed
+    - name: 12. The Plant-om of the Opera
+      bonuses:
+        - Slow and Steady
+    - name: 07. A Chorus Slime
+      bonuses:
+        - Advanced Spellcasting
+    - name: 09. To Kill a Mockingslime
+      bonuses:
+        - 10 Ways to Die
+    - name: 13. Beauty and a Beast
+      bonuses:
+        - Mastery of Fire
+    - name: 04. Gentlemen Prefer Swords
+      bonuses:
+        - Mastery of Lightning
+    - name: 11. Some Like It Excruciatingly Hot
+      bonuses:
+        - Advanced Spellcasting
+    - name: 17. The Sword of Music
+      bonuses:
+        - Enfeeble Me Tender
   advanced:
-    - 11. Some Like It Excruciatingly Hot (Too Fast, Too Furious, A Walk in the Park, Mastery of Lightning)
-    - 15. The Me Nobody Nodes (Modus Interruptus, A Walk in the Park, Four-faced)
-    - 18. Midsummer Night's Explosion (Let's Get Physical, A Walk in the Park
-    - 19. On a Clear Day You Can Smell Forever (Too Fast, Too Furious, 10 Ways to Die)
-    - 09. To Kill a Mockingslime (Slow and Steady, Enfeeble Me Tenderer)
-    - 13. Beauty and a Beast (Advanced Spellcasting, Slow and Steady)
-    - 12. The Plant-om of the Opera (Too Fast, Too Furious, 10 Ways to Die)
-    - 03. Waiting for Golem (Slow and Steady, Enfeeble Me Tender)
-    - 07. A Chorus Slime (Too Fast, Too Furious, Can't Touch This, Mastery of Wind)
-    - 04. Gentlemen Prefer Swords (Enfeeble Me Tenderer, Beginner Spellcasting)
-    - 18. Midsummer Night's Explosion (Too Fast, Too Furious, Advanced Spellcasting)
-    - 03. Waiting for Golem (Ain't Got Time to Bleed, A Walk in the Park, 4 Ways to Die)
-    - 08. Bomb-edy of Errors (Too Fast, Too Furious, 4 Ways to Die, Mastery of Water)
-    - 17. The Sword of Music (10 Ways to Die, Four-faced)
-    - 06. Eye Society (Ain't Got Time to Bleed, A Walk in the Park, Let's Get Physical)
-    - 16. Sunset Bull-evard (Enfeeble Me Tender, A Walk in the Park, Four-faced)
-    - 02. Much Ado About Pudding (Elemental Mastery, 10 Ways to Die)
-    - 10. A Little Knight Music (Ain't Got Time to Bleed, 10 Ways to Die, Mastery of Fire)
-    - 14. Blobs in the Woods (Too Fast, Too Furious, Can't Touch This, A Walk in the Park
-    - 09. To Kill a Mockingslime (Elemental Mastery, Modus Interruptus)
+    - name: 11. Some Like It Excruciatingly Hot
+      bonuses:
+        - Too Fast, Too Furious
+        - A Walk in the Park
+        - Mastery of Lightning
+    - name: 15. The Me Nobody Nodes
+      bonuses:
+        - Modus Interruptus
+        - A Walk in the Park
+        - Four-faced
+    - name: 18. Midsummer Night's Explosion
+      bonuses:
+        - Let's Get Physical
+        - A Walk in the Park
+    - name: 19. On a Clear Day You Can Smell Forever
+      bonuses:
+        - Too Fast, Too Furious
+        - 10 Ways to Die
+    - name: 09. To Kill a Mockingslime
+      bonuses:
+        - Slow and Steady
+        - Enfeeble Me Tenderer
+    - name: 13. Beauty and a Beast
+      bonuses:
+        - Advanced Spellcasting
+        - Slow and Steady
+    - name: 12. The Plant-om of the Opera
+      bonuses:
+        - Too Fast, Too Furious
+        - 10 Ways to Die
+    - name: 03. Waiting for Golem
+      bonuses:
+        - Slow and Steady
+        - Enfeeble Me Tender
+    - name: 07. A Chorus Slime
+      bonuses:
+        - Too Fast, Too Furious
+        - Can't Touch This
+        - Mastery of Wind
+    - name: 04. Gentlemen Prefer Swords
+      bonuses:
+        - Enfeeble Me Tenderer
+        - Beginner Spellcasting
+    - name: 18. Midsummer Night's Explosion
+      bonuses:
+        - Too Fast, Too Furious
+        - Advanced Spellcasting
+    - name: 03. Waiting for Golem
+      bonuses:
+        - Ain't Got Time to Bleed
+        - A Walk in the Park
+        - 4 Ways to Die
+    - name: 08. Bomb-edy of Errors
+      bonuses:
+        - Too Fast, Too Furious
+        - 4 Ways to Die
+        - Mastery of Water
+    - name: 17. The Sword of Music
+      bonuses:
+        - 10 Ways to Die
+        - Four-faced
+    - name: 06. Eye Society
+      bonuses:
+        - Ain't Got Time to Bleed
+        - A Walk in the Park
+        - Let's Get Physical
+    - name: 16. Sunset Bull-evard
+      bonuses:
+        - Enfeeble Me Tender
+        - A Walk in the Park
+        - Four-faced
+    - name: 02. Much Ado About Pudding
+      bonuses:
+        - Elemental Mastery
+        - 10 Ways to Die
+    - name: 10. A Little Knight Music
+      bonuses:
+        - Ain't Got Time to Bleed
+        - 10 Ways to Die
+        - Mastery of Fire
+    - name: 14. Blobs in the Woods
+      bonuses:
+        - Too Fast, Too Furious
+        - Can't Touch This
+        - A Walk in the Park
+    - name: 09. To Kill a Mockingslime
+      bonuses:
+        - Elemental Mastery
+        - Modus Interruptus
 duties:
   arrhw:
     - Saint Mocianne's Arboretum (Hard)
